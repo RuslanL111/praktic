@@ -1,0 +1,14 @@
+body{
+	font-family: arial;
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.head{
+	width: 300px;
+	height: 40px;
+	text-transform: uppercase;
+	margin: 0 auto;
+	background-color: #fff;
+	opacity: .6;
+}
